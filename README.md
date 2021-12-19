@@ -78,7 +78,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila3 PC2:
 
 
-#### AlumneFila3 PC3:
+#### AlumneFila3 PC3: He desitjat a la resta de alumnes un feliç Nadal i he posat el meu nom.
 
 
 #### AlumneFila3 PC4:
